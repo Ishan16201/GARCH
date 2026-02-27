@@ -1,0 +1,13 @@
+--- GARCH Walk-Forward Backtest Report ---
+OOS Observations: 50
+------------------------------------------
+Metric                    |        Value
+------------------------------------------
+Q-Likelihood (QLIKE)      |     1.823050
+MSE (Variance)            |   0.00000002
+MAE (Variance)            |   0.00013214
+------------------------------------------
+VaR Level  | Breaches | Kupiec   | Independence
+95%        | 0        | Fail     | Pass        
+99%        | 0        | Pass     | Pass        
+------------------------------------------

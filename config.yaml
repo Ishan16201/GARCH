@@ -1,0 +1,10 @@
+ticker: "SPY"
+start_date: "2018-01-01"
+end_date: "2024-01-01"
+p: 1
+q: 1
+horizon: 30
+n_simulations: 10000
+min_train_window: 500
+p_max: 2
+q_max: 2
